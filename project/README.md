@@ -37,8 +37,3 @@ Open a new terminal:
 cd frontend
 pip install streamlit requests pandas
 streamlit run app.py
-```
-
-## Note
-
-Password hashing is not added because this version is for internship/demo learning only.
