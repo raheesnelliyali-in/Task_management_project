@@ -36,4 +36,4 @@ Open a new terminal:
 ```bash
 cd frontend
 pip install streamlit requests pandas
-streamlit run app.py
+python -m streamlit run app.py
